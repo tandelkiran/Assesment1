@@ -1,0 +1,77 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "FirstName": "bhavin",
+      "Email": "pavan@gmail.com",
+      "Mobile": "9934567856",
+      "Address": "vapi",
+      "Gender": "Male",
+      "DeptName": "Angular",
+      "HireDate": "21-07-1998",
+      "Permenent": "Yes"
+    },
+    {
+      "id": 2,
+      "FirstName": "yash",
+      "Email": "yash@gmail.com",
+      "Mobile": "9984563545",
+      "Address": "mumbai",
+      "Gender": "Male",
+      "DeptName": "ML",
+      "HireDate": "12-08-1999",
+      "Permenent": "No"
+    },
+    {
+      "FirstName": "vishal",
+      "Email": "vishal@gmail.com",
+      "Mobile": "9984563545",
+      "Address": "pune",
+      "Gender": "Male",
+      "DeptName": ".Net",
+      "HireDate": "10-07-1996",
+      "Permenent": "Yes",
+      "id": 3
+    },
+    {
+      "FirstName": "rudra",
+      "Email": "rudra@gmail.com",
+      "Mobile": "5656454343",
+      "Address": "vadodra",
+      "Gender": "Male",
+      "DeptName": "ML",
+      "HireDate": "01-01-1990",
+      "Permenent": "No",
+      "id": 4
+    },
+    {
+      "FirstName": "savan",
+      "Email": "savan@gmail.com",
+      "Mobile": "77777777777",
+      "Address": "dungri",
+      "Gender": "Male",
+      "DeptName": "Angular",
+      "HireDate": "04-05-1989",
+      "Permenent": "No",
+      "id": 5
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "DeptName": "Angular"
+    },
+    {
+      "id": 2,
+      "DeptName": ".Net"
+    },
+    {
+      "id": 3,
+      "DeptName": "ML"
+    },
+    {
+      "id": 4,
+      "DeptName": "UI"
+    }
+  ]
+}
